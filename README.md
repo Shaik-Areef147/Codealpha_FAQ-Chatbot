@@ -18,8 +18,8 @@ A chatbot that answers frequently asked questions using NLP techniques.
 - Cosine Similarity
 - Chat Interface
 
-## Run
+## 🌐 Open Application
 
-```bash
-streamlit run app.py
-```
+
+https://codealphafaq-chatbot-hf8svfgxng7zrqensdw5wt.streamlit.app/
+
